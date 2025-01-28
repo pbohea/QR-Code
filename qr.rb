@@ -1,4 +1,3 @@
-# Write your solution here!
 require "rqrcode"
 
 user_digit = ""
@@ -68,3 +67,4 @@ pp "Enter the content of the text message you'd like to send"
 
 
 end
+
